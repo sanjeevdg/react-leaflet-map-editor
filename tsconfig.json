@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "lib": ["dom", "es2019"],
+    "module": "ESNext",
+    "declaration": true,
+    "declarationDir": "dist",
+    "emitDeclarationOnly": false,
+    "outDir": "dist",
+    "rootDir": "src",
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "isolatedModules": true,
+    "esModuleInterop": true,    
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "types": ["leaflet"],
+ "typeRoots": ["./src/types", "./node_modules/@types"]
+  },
+  "include": ["src"]
+}
+
+      
