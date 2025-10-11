@@ -1,4 +1,4 @@
-# Package rn-mathquiz
+# Package react-leaflet-map-editor
 
 ## Usage
 To use react-leaflet-map-editor component in your own project first,
