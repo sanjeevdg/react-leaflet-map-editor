@@ -18,7 +18,7 @@ For a sample express app which has the above endpoints see
 
 This app is built with leaflet and leaflet-draw.
 
-![alt text](https://github.com/sanjeevdg/rn-mathquiz/blob/main/react-leaflet-editable-map-app-.png?raw=true)
+![alt text](https://github.com/sanjeevdg/react-leaflet-map-editor/blob/main/react-leaflet-editable-map-app-.png?raw=true)
 
 You may raise any issues you have on Githib.
 
