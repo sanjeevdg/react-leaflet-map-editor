@@ -11,7 +11,7 @@ To use the component you will need to specify a few parameters, as shown here.
 deleteUrl={"https://editablemapbackend.onrender.com/api/features/"}
 saveUrl={"https://editablemapbackend.onrender.com/react/api/features"}
 putUrl={"https://editablemapbackend.onrender.com/api/features/"}
-maptiler_api_key={"b59pIgoNGnhNHBDuQlry"} /&gt;
+maptiler_api_key={"MAPTILER-API-KEY"} /&gt;
 
 For a sample express app which has the above endpoints see 
 **https://github.com/sanjeevdg/editableMapBackend/tree/main/src**
@@ -20,7 +20,7 @@ This app is built with leaflet and leaflet-draw.
 
 ![alt text](https://github.com/sanjeevdg/react-leaflet-map-editor/blob/main/react-leaflet-editable-map-app-.png?raw=true)
 
-You may raise any issues you have on Githib.
+You may raise any issues you have on Github.
 
 
 
