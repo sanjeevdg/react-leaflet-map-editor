@@ -1,6 +1,6 @@
 {
   "name": "react-leaflet-map-editor",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
